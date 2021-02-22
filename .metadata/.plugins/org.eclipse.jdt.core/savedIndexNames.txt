@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\Lucas\IFSP\LG2A2\Java Projects\Project1\.metadata\.plugins\org.eclipse.jdt.core
+206455352.index
+2068411054.index
+2504463234.index

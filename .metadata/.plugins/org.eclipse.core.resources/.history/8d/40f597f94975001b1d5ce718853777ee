@@ -1,0 +1,13 @@
+package ex3;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		Aluno a1 = new Aluno("SP305411X", "Chonps", 5.0f, 2.2f, 2.1f);
+		System.out.println(a1.calculaMedia());
+		System.out.println(a1.situacao());
+		
+	}
+		
+}
