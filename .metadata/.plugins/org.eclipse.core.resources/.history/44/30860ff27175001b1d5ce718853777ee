@@ -1,7 +1,7 @@
 package lista3;
 
 
-public class Pessoa {
+public super class Pessoa {
 
 	private String cpf;
 	private String nome;

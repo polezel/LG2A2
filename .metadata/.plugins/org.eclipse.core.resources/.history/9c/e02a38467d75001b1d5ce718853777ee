@@ -5,9 +5,8 @@ public class Mecanico extends Pessoa { 			//herda atributos e métodos da classe 
 
 	private String especialidade;
 		
-	public Mecanico(String cpf, String nome, String especialidade) {
+	public Mecanico(String especialidade) {
 		
-		super (cpf, nome);
 		this.especialidade = especialidade;
 				
 	}
@@ -22,7 +21,7 @@ public class Mecanico extends Pessoa { 			//herda atributos e métodos da classe 
 
 	@Override
 	public String toString() {
-		return super.toString() + "Mecanico [Especialidade: " + especialidade + "]";
+		return "Mecanico [Especialidade: " + especialidade + "]";
 	}
 	
 	
