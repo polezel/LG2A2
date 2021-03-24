@@ -1,9 +1,0 @@
-package lista3;
-
-public class OrdemDeServiço {
-
-	public OrdemDeServiço() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
